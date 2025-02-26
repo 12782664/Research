@@ -1,0 +1,7 @@
+File explaination:
+
+1. FODPascalVOCFormat-V.2.1.rar
+ This rar file is FOD-A dataset. 
+
+2. Tiny_Fod_Imgs.rar
+This rar file is Tiny-FOD dataset.
